@@ -1,9 +1,5 @@
 # Ean Steve Garciano
 
-<a href="https://stibgee.github.io/IstibPortffolio/">
-  <img src="./logo.PNG" alt="Logo" width="150" height="70">
-</a><br/>
-
 
 ## Visit my [Portfolio](https://stibgee.github.io/IstibPortffolio/)
 
