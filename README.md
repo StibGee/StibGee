@@ -7,8 +7,6 @@
 
 ## Visit my [Portfolio](https://stibgee.github.io/IstibPortffolio/)
 
-## 💫 About Me:
-I am a passionate Frontend Developer with a focus on UI/UX design. My goal is to contribute to innovative projects that provide exceptional user experiences.
 
 
 
@@ -17,33 +15,5 @@ I am a passionate Frontend Developer with a focus on UI/UX design. My goal is to
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StibGee&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Projects:
-
-Here are some of my notable projects:
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3>SchedAi</h3>
-    <p>Ai-Driven  Faculty Scheduler Prototype Using Figma.</p>
-    <a href="https://www.figma.com/proto/zjG7E990cU13mYYizX9BS3/SchedAi?t=aViQHBYc2jUVaCC5-1" style="display: inline-block; margin-top: 10px; padding: 8px 12px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px;">Visit Link</a>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3>Sale Savant</h3>
-    <p>POS, Sales Tracking And Menu Inventory Prototype Using Figma.</p>
-    <a href="https://www.figma.com/proto/iJMxftJMyY0jlgngaQKwSy/WebHEX(SupplySavant)?t=IkNB8Q9wieomiQ7e-1" style="display: inline-block; margin-top: 10px; padding: 8px 12px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px;">Visit Link</a>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3>MotoRent</h3>
-    <p>Motor Rental Prototype Using Figma</p>
-    <a href="https://www.figma.com/design/reQZNPJX4Za4Ly6ZiCcreX/webdev?node-id=3-6083&t=Dqdx1eWdYuIJW1Ni-1" style="display: inline-block; margin-top: 10px; padding: 8px 12px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px;">Visit Link</a>
-  </div>
-<div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3>Weblog</h3>
-    <p>Industry Visit Weblog</p>
-    <a href="https://stibgee.github.io/Weblog-IndustryVisit2024/" style="display: inline-block; margin-top: 10px; padding: 8px 12px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px;">Visit Link</a>
-  </div>
-</div>
-
-Feel free to explore these projects and provide any feedback or contributions!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
